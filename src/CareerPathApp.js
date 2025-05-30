@@ -1,0 +1,1 @@
+// CareerPathApp component (placeholder)
